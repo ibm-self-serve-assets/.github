@@ -1,6 +1,6 @@
 # IBM Self Service Assets
 
-Repository for enterprise solutions & AI frameworks for clients and ecosystem partners.
+Collection of enterprise solutions & AI frameworks for clients and ecosystem partners.
 
 ## Highlighted assets
 

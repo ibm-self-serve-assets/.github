@@ -1,5 +1,6 @@
-# Highlighted Repos
+# Top Repos
 
+- [Agentrix](https://github.com/ibm-self-serve-assets/Agentrix)
 - [SuperKnowa](https://github.com/ibm-self-serve-assets/SuperKnowa)
 - [Blended RAG](https://github.com/ibm-self-serve-assets/Blended-RAG)
 - [Watson NLP](https://github.com/ibm-self-serve-assets/Watson-NLP)

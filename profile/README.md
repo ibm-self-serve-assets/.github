@@ -1,4 +1,4 @@
-# Highlighted assets
+# Highlighted Repos
 
 - [SuperKnowa](https://github.com/ibm-self-serve-assets/SuperKnowa)
 - [Blended RAG](https://github.com/ibm-self-serve-assets/Blended-RAG)

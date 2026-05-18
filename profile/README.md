@@ -1,6 +1,6 @@
 # Top Repos
 
-- [Building Blocks] (https://github.com/ibm-self-serve-assets/building-blocks)
+- [Building Blocks](https://github.com/ibm-self-serve-assets/building-blocks)
 - [Agentrix](https://github.com/ibm-self-serve-assets/Agentrix)
 - [SuperKnowa](https://github.com/ibm-self-serve-assets/SuperKnowa)
 - [Blended RAG](https://github.com/ibm-self-serve-assets/Blended-RAG)
